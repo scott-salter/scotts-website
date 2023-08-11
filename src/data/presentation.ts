@@ -12,7 +12,7 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  Scott Salter
+  mail: "Scott Salter",
   title: "Scott Salter 👋",
   // profile: "/profile.webp",
   description:

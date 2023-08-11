@@ -1,54 +1,65 @@
 ---
-title: "The Power Of React Hooks"
-publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
-slug: "the-power-of-react-hooks"
+title: "The Importance of Clear Communication"
+publishedAt: 2023-07-05
+description: "Clear communication is key for leaders to motivate their teams and ensure their messages stick."
+slug: "the-importance-of-clear-communication"
 isPublish: true
 ---
 
-## Vocesque meum remis est neque Neptunus monte
+Clear communication is key for leaders to motivate their teams and ensure their messages stick.
 
-Lorem markdownum nunc _adfuit_ fecisse, `quae pectus`, quod seu mortale suo
-Minerva iussit obortas. Favilla victa; alarum signis barbara, nec _sibi dentes_
-hostes?
+At this time of year, Thursday night is business night in my household. We kickstart the evening with Dragons Den, before watching the Apprentice. 
 
-## Corporibus Leucon
+As my wife and I watched The Apprentice last Thursday, one thing struck me – the importance of clear communication. 
 
-Quaeque viridis, pariter possit. Velatus Thetis, ab Buten, in et ite positis
-annis ut Troasque altaque. Ancaeus convertit conscia Phinea petis. Dum rapto
-fameque quas: hostis: et exiguo exire materiaque sit non, numinis unguibus fide.
-Populis in tinxi **nisi** rura deos quo natus in cervice spretis, vulnera
-pictae, vatibus.
+So what happened?
 
-> Illi tenebras si vultum suae. Matrem iam: iniqua adire, tetigere meque,
-> cessant, gerebat.
+The task for both teams was to design and launch a new brand of dog food. One of the teams, with Megan Hornby as Project Manager, decided to use insects as the base for their product. 
 
-## Montes ignarus precor rogabam primus ridet sanguine
+The issue, however, was that the communication from Megan has mixed and confusing. She told her team that their USP was the use of insects as a protein source, but not to focus on it. She told them to focus on the healthy benefits, but not too much.
 
-In vir indefessus et patrios veniam. Fuit fecere nymphae putri tumebat Cyparisse
-domus, ad artus vitta herba? Et gaudet pressum aeterna animam. Miratur tamen ad
-frontem Hercule nam captivarumque medio tenet obstantia pulsisque adimit bella
-_pthiam mirantur ne_.
+Her team left their morning briefing confused and the mixed messaging led to abysmal branding that ultimately cost them the task. 
 
-> Lacertis et nomenque oracla exstabat: genitor nitor! Fluctus habes extinctum.
-> Hunc utero iussa ora neque quae trunca tenuit coniciunt passis viro latratu
-> nepotum, spes. Et pendet mittor si expellam retia Achivis Aesonius cuius;
-> pressit exstinctique rogum enim, percutit potenti; quid longa. Nostra animaque
-> genetrice viae, quam virus sermone in videri.
+This episode was a lesson for leaders and managers – if you're not clear with your communication, people will have different interpretations of your messaging. 
 
-## Rapit harundine vana
+But how can leaders ensure their communication is clear?
 
-Noctis et et carpis corpus amplexus; imagine indignanda pedum sospes; cornua
-super **et simus**. Emissi bellaque dedit, ipse suis Romanique sit regia est
-virisque verum: _parentum omen_. Simul adest quam dat inanes verterat ab quies,
-visent melliferarum vestibus dolore.
+## Focus on a single message
 
-Vos illo in habet, ipse est suo fuit, solidissima invecta moverent [si] pericula
-ea pelle te quatiens proditus. Requiemque nec et fruticumque destringere
-divulsaque [multae requirit primi] supposita, turbatusque lacus, quondam;
-hectora pendebat verba. Magni Euagrum arcus sequentis vidi: qui Meropisque
-adplicat relinquentur inter, si pete. Magna constitit ore rediit et parentis
-pomaria lumina seque aura.
+If Megan had communicated to her team that their USP was the use of insects as a protein source and they should focus their branding and marketing on this, the end result would've been very different. 
 
-[multae requirit primi]: http://heu.io/
-[si]: http://infelixlucina.net/mutati
+Her team would've left under no illusions of what their vision was. 
+
+Megan's downfall was that she pushed multiple messages to her team.
+
+As managers, we should focus on a single message to ensure that our teams understand our vision. 
+
+## Communicate your message more than once
+
+According to John Medina, author of [Brain Rules](http://brainrules.net/about-brain-rules?ref=scott-salter), "the typical human brain can hold about seven pieces of new information for less than 30 seconds."
+
+Consider all of the new pieces of information your reports are exposed to every single day at work. 
+
+One simple trick you can do is to communicate your message more than once to your team. The key, according to research, is to space these messages at deliberate intervals. 
+
+"This was demonstrated by German researcher Hermann Ebbinghaus more than 100 years ago. He showed that repeated exposure to information in spaced intervals provides the most powerful way to fix memory in the brain" writes Medina. 
+
+## Ask for your team's understanding
+
+n her book, The Making of a Manager, Julie Zhuo – former VP of Design at Facebook – suggests that managers should check that their team understand the message instead of trusting that they have communicated effectively. 
+
+"At the end of a conversation, when you're not sure whether you've been heard, there are a few things you can do. The first is a verbal confirmation: "Okay, let's make sure we're on the same page – what are your takeaways and next steps?"
+
+By simply asking your team what their takeaways are - or what their next steps are - you can gain an understanding of whether your messaging has actually landed, or whether you have not communicated effectively. 
+
+## Takeaways
+
+Communicating clearly is important for any professional, but especially for managers. 
+
+When you are leading a team towards a united outcome, you have to ensure the messages you communicated are clear and are understood by your reports. 
+
+The three takeaways and action points to communicate clearly are: 
+
+* Focus on a single message; don't confuse your communication by focusing on multiple messages
+* Communicate your message more than once; humans are overloaded with messages, so repeat yours more than once at spaced-out intervals to help your messages land
+* Ask for your team's understanding; by simply asking your team for their takeaways, you can ensure you are all on the same page

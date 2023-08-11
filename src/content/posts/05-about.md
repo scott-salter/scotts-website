@@ -6,7 +6,7 @@ slug: "about"
 isPublish: true
 ---
 
-![An image of Scott Salter](scott-salter.jpg)
+![An image of Scott Salter](/scott-salter.jpg)
 
 I'm Scott, an SEO Manager with 9+ years of experience executing digital marketing campaigns and strategies. 
 

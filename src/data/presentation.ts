@@ -12,23 +12,22 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
+  title: "Scott Salter 👋",
   // profile: "/profile.webp",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "Scott Salter is an SEO Manager based in the South West of England. At Gymshark, he leads the SEO & Content team across 15 global websites.",
   socials: [
     {
       label: "X",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://twitter.com/scottsltr",
     },
     {
       label: "Bento",
       link: "https://bento.me/m-wolff",
     },
     {
-      label: "Github",
-      link: "https://github.com/MaeWolff",
+      label: "LinkedIn",
+      link: "https://www.linkedin.com/in/scott-salter/",
     },
   ],
 };

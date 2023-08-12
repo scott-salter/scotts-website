@@ -6,7 +6,7 @@ slug: "about"
 isPublish: true
 ---
 
-![An image of Scott Salter]("https://scott-salter.com/assets/uploads/3e073407de6ca1a303ab74f37a48fd1f.jpg")
+<img src="/public/scott-salter.jpgg" alt="An image of Scott Salter">
 
 I'm Scott, an SEO Manager with 9+ years of experience executing digital marketing campaigns and strategies. 
 

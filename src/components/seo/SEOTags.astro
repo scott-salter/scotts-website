@@ -19,7 +19,7 @@ const { title, description, noindex, og } = Astro.props;
 
 const DEFAULT_TITLE_PAGE = "Scott Salter - SEO Manager at Gymshark";
 const DEFAULT_DESCRIPTION_PAGE =
-  "Scott Salter is the SEO Manager at Gymshark, where he leads the SEO & Content team across 15 global websites.";
+  "{post.data.description}";
 const DEFAULT_URL_SITE = SITE_URL;
 
 const openGraph = {

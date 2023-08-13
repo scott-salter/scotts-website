@@ -6,7 +6,10 @@ slug: "about"
 isPublish: true
 ---
 
-<img src="/public/scott-salter.jpgg" alt="An image of Scott Salter">
+<img src="/public/scott-salter.jpg" alt="An image of Scott Salter">
+
+<img src="https://pbs.twimg.com/profile_images/1681961322475405314/Pmmvd_Qq_400x400.jpg" alt="An image of Scott Salter2">
+
 
 I'm Scott, an SEO Manager with 9+ years of experience executing digital marketing campaigns and strategies. 
 

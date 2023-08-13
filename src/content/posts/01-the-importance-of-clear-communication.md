@@ -4,6 +4,11 @@ publishedAt: 2023-07-05
 description: "Clear communication is key for leaders to motivate their teams and ensure their messages stick."
 slug: "the-importance-of-clear-communication"
 isPublish: true
+<html lang="en">
+  <head>
+    <SEO
+      description="A heavily optimized description full of well-researched keywords."/>
+      </head>
 ---
 
 Clear communication is key for leaders to motivate their teams and ensure their messages stick.

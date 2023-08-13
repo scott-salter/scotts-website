@@ -18,8 +18,7 @@ type Props = {
 const { title, description, noindex, og } = Astro.props;
 
 const DEFAULT_TITLE_PAGE = "Scott Salter - SEO Manager at Gymshark";
-const DEFAULT_DESCRIPTION_PAGE =
-  "{post.data.description}";
+const DEFAULT_DESCRIPTION_PAGE = "{description}";
 const DEFAULT_URL_SITE = SITE_URL;
 
 const openGraph = {

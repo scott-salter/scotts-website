@@ -12,13 +12,18 @@ const projects: Project[] = [
     link: "https://playful-licorice-bffb1b.netlify.app/posts/gymshark",
   },
   {
-    title: "Portfolio / Lina BLIDI",
-    techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "https://www.linablidi.fr/",
+    title: "Winston's Wish",
+    techs: ["SEO", "Digital Marketing"],
+    link: "https://scott-salter.com/posts/winstons-wish/",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro"],
+    title: "Blushes",
+    techs: ["SEO"],
+    link: "https://scott-salter.com/posts/blushes/",
+  },
+  {
+    title: "Edinburgh Natural Skincare Company",
+    techs: ["SEO", "Digital Marketing"],
     link: "/",
     isComingSoon: true,
   },

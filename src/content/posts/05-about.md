@@ -8,6 +8,9 @@ isPublish: true
 
 <img src="https://pbs.twimg.com/profile_images/1681961322475405314/Pmmvd_Qq_400x400.jpg" alt="An image of Scott Salter">
 
+<!-- Local image stored at public/scott-salter.jpg -->
+![Scott Salter.](/scott-salter.jpg)
+
 
 I'm Scott, an SEO Manager with 9+ years of experience executing digital marketing campaigns and strategies. 
 

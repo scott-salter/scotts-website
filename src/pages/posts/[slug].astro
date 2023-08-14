@@ -26,8 +26,8 @@ const { Content } = await post.render();
       <h1 class="text-md">
         {post.data.title}
       </h1>
-      <p class="italic">{formatDate(post.data.publishedAt)}</p>
-      <p class="italic">{post.data.description}</p>
+      <p class="italic" style="margin-left: 40px">>{formatDate(post.data.publishedAt)}</p>
+      <p class="italic" style="margin-left: 40px">>{post.data.description}</p>
     </header>
 
     <Content />

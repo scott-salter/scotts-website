@@ -13,7 +13,9 @@ I decided to put pen to paper (figuratively speaking) and ponder over 30 lessons
 ## On Life 
 
 1. Spend your time with people who add value to your life. Don’t waste time on those that don’t.
+
 2. Read books. Not only do you learn but they’re a great avenue to help you escape.
+
 3. If a book is bad, stop reading it. Life is too short to read books you don’t enjoy.
 4. Dads, take as much time as you can off work when your baby is born - whether that’s paternity leave, shared parental leave or annual leave. You’ll never get that time back.
 5. You can’t optimise every part of your life.

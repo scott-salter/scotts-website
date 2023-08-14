@@ -2,7 +2,7 @@
 title: "30 Thoughts on Turning 30"
 publishedAt: 2023-07-15
 description: "After turning 30, I reflect on life to date. Here are 30 thoughts on life, work and growth."
-slug: "side-project-successful-seo"
+slug: "30-thoughts-on-30"
 isPublish: true
 ---
 

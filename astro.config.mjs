@@ -6,7 +6,7 @@ import { SITE_URL } from "./src/data/config";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), sitemap()],
-  site: SITE_URL,
+  site: 'https://scott-salter.com',
   markdown: {
     syntaxHighlight: "shiki",
     shikiConfig: {
